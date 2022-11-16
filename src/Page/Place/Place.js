@@ -10,6 +10,8 @@ const Place = () => {
     <div>
       <Header />
 
+      <div className={classes.placelist}>
+
       <div className={classes.locationlist}>
         <p>Resturant</p>
         <p>Cottage</p>
@@ -23,6 +25,8 @@ const Place = () => {
           <span>Location</span>
           <img src={setting} alt="setting" />
         </button>
+      </div>
+
       </div>
 
       <section className={classes.array}>

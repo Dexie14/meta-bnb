@@ -72,7 +72,7 @@ const Header = () => {
               NFTs
             </NavLink>
             <NavLink
-              to="/#community"
+              to="#community"
               className={(navData) =>
                 navData.isActive ? `${classes.active}` : `${classes.navItems}`
               }

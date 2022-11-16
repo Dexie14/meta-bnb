@@ -16,14 +16,14 @@ const Home = () => {
   return (
     <div className={classes.Home}>
       <Header 
-      
+        
       />
 
       {/* Hero section */}
       <div className={classes.Hero}>
         <div className={classes.herotext}>
           <h2>
-            Rent a <span>Place</span> away from <span>Home</span> in the{" "}
+            Rent a <span>Place</span> away from <span>Home</span> in the
             <span>Metaverse</span>
           </h2>
           <p>

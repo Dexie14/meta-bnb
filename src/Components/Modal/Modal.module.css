@@ -4,12 +4,11 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 40%;
-  /* height: 45%; */
-
   background-color: white;
   border-radius: 5px;
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
   z-index: 10000;
+  margin: auto auto;
   padding-bottom: 1rem;
 }
 
@@ -36,14 +35,14 @@
   justify-content: space-between;
   margin: 0.7rem auto;
   background: #f8f9fa;
-padding: 0.3rem;
+  padding: 0.3rem;
   border: 1px solid #cfd8dc;
   border-radius: 12px;
   align-items: center;
 }
 
-.modal .prefer p{
-    margin: 1.3rem 0;
+.modal .prefer p {
+  margin: 1.3rem 0;
 }
 
 .modal .connectW {
@@ -52,16 +51,13 @@ padding: 0.3rem;
   justify-content: space-between;
   margin: 0.7rem auto;
   padding: 0.3rem;
-align-items: center;
+  align-items: center;
   border: 1px solid #cfd8dc;
   border-radius: 12px;
-
 }
 
-
-
-@media (max-width: 800px){
-    .modal{
-        width: 80%;
-    }
+@media (max-width: 800px) {
+  .modal {
+    width: 80%;
+  }
 }
