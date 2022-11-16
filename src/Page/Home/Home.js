@@ -57,7 +57,7 @@ const Home = () => {
 
       {/* adventure section */}
 
-      <section className={classes.adventure}>
+      <section className={classes.adventure} id="community"> 
         <h2>Inspiration for your next adventure</h2>
         <div className={classes.adventureCard}>
           {cards.map((item) => (
@@ -76,7 +76,7 @@ const Home = () => {
 
       {/* NFts section */}
 
-      <section className={classes.nft}>
+      <section className={classes.nft} id="NFT">
         <div  className={classes.NFts}>
         <div className={classes.NFTtext}>
           <h2>Metabnb NFTs</h2>

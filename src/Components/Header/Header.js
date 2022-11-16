@@ -64,7 +64,7 @@ const Header = () => {
               Place to stay
             </NavLink>
             <NavLink
-              to="/nft" 
+              to="/#NFT" 
               className={(navData) =>
                 navData.isActive ? `${classes.active}` : `${classes.navItems}`
               }
@@ -72,7 +72,7 @@ const Header = () => {
               NFTs
             </NavLink>
             <NavLink
-              to="/community"
+              to="/#community"
               className={(navData) =>
                 navData.isActive ? `${classes.active}` : `${classes.navItems}`
               }
@@ -80,12 +80,8 @@ const Header = () => {
               Community
             </NavLink>
           </nav>
-          <div className={classes.button}>
+          <div className={classes.button} onClick={showSideBar}>
             <button onClick={()=> setModalIsOpen(true)}>Connect Wallet</button>
-               
-             
-
-              
           </div>
         </menu>
       </header>
