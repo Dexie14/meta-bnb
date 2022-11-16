@@ -14,12 +14,13 @@
   width: 90%;
   font-weight: 400;
   font-size: 40px;
+  margin-top: 1.5rem;
 }
 .Hero p {
   color: #434343;
   font-size: 1.2rem;
   width: 89%;
-  margin: 1.2rem 0;
+  margin: 2rem 0;
 }
 .Hero span {
   color: #a02279;
@@ -97,6 +98,8 @@
 .adventure h2 {
   text-align: center;
   margin: 1rem 0;
+  font-weight: 700;
+  font-size: 33px;
 }
 .adventureCard {
   display: grid;
