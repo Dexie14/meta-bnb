@@ -1,0 +1,22 @@
+.advCard {
+  background: linear-gradient(124.4deg, #ffffff 10.8%, #ffffff 87.34%);
+  border: 1px solid #d7d7d7;
+  border-radius: 15px;
+  padding: 12px;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+
+.word{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+    font-size: 0.8rem;
+}
+
+.advCard figure:first-of-type{
+   display: flex;
+   justify-content: center;
+}

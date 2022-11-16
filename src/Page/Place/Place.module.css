@@ -1,0 +1,33 @@
+.adventureCard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 10px;
+  margin: 3rem 0;
+}
+
+.locationlist {
+  display: flex;
+  width: 90%;
+  margin: 5rem auto 1rem;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+.array{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.locationlist button {
+  font-family: "Red Rose", cursive;
+  width: 20%;
+  padding: 7px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(124.4deg, #ffffff 10.8%, #ffffff 87.34%);
+  border: 1px solid #b4b4b4;
+  border-radius: 8px;
+  color: #333333;
+}

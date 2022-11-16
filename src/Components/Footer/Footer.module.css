@@ -1,0 +1,46 @@
+.Footer {
+  background: #1d1d1e;
+  padding: 3rem 0;
+}
+
+.Footer footer {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 50px;
+  margin: 0 auto;
+  /* justify-content: space-between; */
+  color: white;
+}
+
+
+#metalogo {
+  margin-bottom: 5rem;
+  width: 80%;
+}
+#metalogo img:first-of-type {
+  width: 100%;
+}
+
+.footlogo img {
+  margin-right: 20px;
+}
+
+.Footer footer h4 {
+  margin-bottom: 1.2rem;
+}
+
+.Footer footer p {
+  margin-bottom: 0.7rem;
+  font-size: 0.8rem;
+}
+
+.footend {
+  margin: 4rem auto 0.5rem;
+  display: flex;
+  color: white;
+  width: 90%;
+}
+.footend img {
+  margin-right: 10px;
+}
