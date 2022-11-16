@@ -20,7 +20,7 @@ const Place = () => {
         <p>Off-grid</p>
         <p>Farm</p>
         <button>
-          <p>Location</p>
+          <span>Location</span>
           <img src={setting} alt="setting" />
         </button>
       </div>

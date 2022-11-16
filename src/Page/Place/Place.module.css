@@ -31,3 +31,22 @@
   border-radius: 8px;
   color: #333333;
 }
+
+
+@media (max-width:800px){
+    .locationlist {
+        display: block;
+      }
+      
+.locationlist button {
+    font-family: "Red Rose", cursive;
+    width: 30%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .locationlist p{
+    margin-bottom: 1.5rem;
+  }
+}
