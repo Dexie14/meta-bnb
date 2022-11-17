@@ -23,8 +23,7 @@ const Home = () => {
       <div className={classes.Hero}>
         <div className={classes.herotext}>
           <h2>
-            Rent a <span>Place</span> away from <span>Home</span> in the
-            <span>Metaverse</span>
+            Rent a <span>Place</span> away from <span>Home</span> in the <span>Metaverse</span>
           </h2>
           <p>
             we provide you access to luxury and affordable houses in the
