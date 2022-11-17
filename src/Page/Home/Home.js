@@ -1,7 +1,7 @@
 import Header from "../../Components/Header/Header";
 import AdvCard from "../../Components/AdvCard/AdvCard";
 import classes from "./Home.module.css";
-import Hero_image from "../../images/Hero_image.svg";
+import Hero_image from "../../images/Hero_image.webp";
 import MBToken from "../../images/MBToken.svg";
 import metaNFT from "../../images/metaNFT.svg";
 import metamask from "../../images/metamask.svg";
@@ -23,8 +23,7 @@ const Home = () => {
       <div className={classes.Hero}>
         <div className={classes.herotext}>
           <h2>
-            Rent a <span>Place</span> away from <span>Home</span> in the
-            <span>Metaverse</span>
+            Rent a <span>Place</span> away from <span>Home</span> in the <span>Metaverse</span>
           </h2>
           <p>
             we provide you access to luxury and affordable houses in the

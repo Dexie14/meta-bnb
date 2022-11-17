@@ -1,30 +1,30 @@
 
-import card2 from "../images/homecards/card2.svg";
-import card3 from "../images/homecards/card3.svg";
-import card4 from "../images/homecards/card4.svg";
-import card5 from "../images/homecards/card5.svg";
-import card6 from "../images/homecards/card6.svg";
-import card7 from "../images/homecards/card7.svg";
-import card8 from "../images/homecards/card8.svg";
-import card1 from "../images/homecards/card1.svg";
+import card2 from "../images/homecards/card2.webp";
+import card3 from "../images/homecards/card3.webp";
+import card4 from "../images/homecards/card4.webp";
+import card5 from "../images/homecards/card5.webp";
+import card6 from "../images/homecards/card6.webp";
+import card7 from "../images/homecards/card7.webp";
+import card8 from "../images/homecards/card8.webp";
+import card1 from "../images/homecards/card1.webp";
 import stars from "../images/stars.svg";
 
-import placecard1 from "../images/locationcards/card1.svg";
-import placecard2 from "../images/locationcards/card2.svg";
-import placecard3 from "../images/locationcards/card3.svg";
-import placecard4 from "../images/locationcards/card4.svg";
-import placecard5 from "../images/locationcards/card5.svg";
-import placecard6 from "../images/locationcards/card6.svg";
-import placecard7 from "../images/locationcards/card7.svg";
-import placecard8 from "../images/locationcards/card8.svg";
-import placecard9 from "../images/locationcards/card9.svg";
-import placecard10 from "../images/locationcards/card10.svg";
-import placecard11 from "../images/locationcards/card11.svg";
-import placecard12 from "../images/locationcards/card12.svg";
-import placecard13 from "../images/locationcards/card13.svg";
-import placecard14 from "../images/locationcards/card14.svg";
-import placecard15 from "../images/locationcards/card15.svg";
-import placecard16 from "../images/locationcards/card16.svg";
+import placecard1 from "../images/locationcards/card1.webp";
+import placecard2 from "../images/locationcards/card2.webp";
+import placecard3 from "../images/locationcards/card3.webp";
+import placecard4 from "../images/locationcards/card4.webp";
+import placecard5 from "../images/locationcards/card5.webp";
+import placecard6 from "../images/locationcards/card6.webp";
+import placecard7 from "../images/locationcards/card7.webp";
+import placecard8 from "../images/locationcards/card8.webp";
+import placecard9 from "../images/locationcards/card9.webp";
+import placecard10 from "../images/locationcards/card10.webp";
+import placecard11 from "../images/locationcards/card11.webp";
+import placecard12 from "../images/locationcards/card12.webp";
+import placecard13 from "../images/locationcards/card13.webp";
+import placecard14 from "../images/locationcards/card14.webp";
+import placecard15 from "../images/locationcards/card15.webp";
+import placecard16 from "../images/locationcards/card16.webp";
 
 
 

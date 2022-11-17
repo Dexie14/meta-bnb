@@ -19,4 +19,8 @@
 .advCard figure:first-of-type{
    display: flex;
    justify-content: center;
+   width: 100%;
+}
+.advCard figure:first-of-type img{
+    width: 100%;
 }

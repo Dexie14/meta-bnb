@@ -1,5 +1,5 @@
 import classes from "./Header.module.css";
-import metaLogo from "../../images/metaLogo.svg";
+import metaLogo from "../../images/metaLogo.webp";
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import { FaTimes } from "react-icons/fa";
